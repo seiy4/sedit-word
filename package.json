@@ -1,0 +1,30 @@
+{
+  "name": "sedit-word",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seiy4/sedit-word.git"
+  },
+  "keywords": [
+    "web-components",
+    "edit-word"
+  ],
+  "author": "seiy4",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seiy4/sedit-word/issues"
+  },
+  "homepage": "https://github.com/seiy4/sedit-word#readme",
+  "dependencies": {
+    "path": "^0.12.7",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
