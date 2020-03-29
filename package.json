@@ -21,7 +21,7 @@
     "url": "https://github.com/seiy4/sedit-word/issues"
   },
   "homepage": "https://github.com/seiy4/sedit-word#readme",
-  "dependencies": {
+  "devDependencies": {
     "path": "^0.12.7",
     "webpack": "^4.42.1",
     "webpack-cli": "^3.3.11",
